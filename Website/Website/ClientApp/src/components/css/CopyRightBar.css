@@ -1,0 +1,27 @@
+﻿.box-shadow {
+    box-shadow: 0 .75rem .25rem rgba(0, 0, 0, .05);
+    border-top: 1px solid red;
+}
+
+p {
+    padding: 1.5em;
+    text-align: center;
+}
+
+
+.icon {
+    background-color: white;
+    max-width: 2em;
+    max-height: 2em;
+    padding: 0.1em;
+}
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+.icons {
+    padding-top: 1em;
+    text-align: center;
+}
